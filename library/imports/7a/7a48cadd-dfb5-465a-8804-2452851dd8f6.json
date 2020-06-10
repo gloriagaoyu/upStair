@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "peoples33",
+    "texture": "69b0989c-2452-4d51-bfff-461569421970",
+    "atlas": "",
+    "rect": [
+      26,
+      29,
+      605,
+      651
+    ],
+    "offset": [
+      -21.5,
+      -4.5
+    ],
+    "originalSize": [
+      700,
+      700
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

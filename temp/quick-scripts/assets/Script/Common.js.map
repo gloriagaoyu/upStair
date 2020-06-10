@@ -1,0 +1,1 @@
+{"version":3,"sources":["Common.js"],"names":["module","exports","playerScore","playerIndex","maxScore"],"mappings":";;;;;;AAAAA,OAAOC,OAAP,GAAe;AACXC,iBAAY,IADD;AAEXC,iBAAY,CAFD;AAGXC,cAAS;AAHE,CAAf","file":"Common.js","sourceRoot":"../../../../assets/Script","sourcesContent":["module.exports={\n    playerScore:null,\n    playerIndex:0,\n    maxScore:0,\n}\n"]}

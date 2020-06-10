@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "xmHead",
+    "texture": "3d835a85-1f97-415e-8a20-b31a1957d238",
+    "atlas": "",
+    "rect": [
+      220,
+      173,
+      374,
+      250
+    ],
+    "offset": [
+      57,
+      52
+    ],
+    "originalSize": [
+      700,
+      700
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

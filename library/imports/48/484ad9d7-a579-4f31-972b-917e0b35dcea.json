@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "yaHead",
+    "texture": "a3966809-6ce2-46ce-9a50-4432906d3fd5",
+    "atlas": "",
+    "rect": [
+      79,
+      86,
+      350,
+      241
+    ],
+    "offset": [
+      4,
+      43.5
+    ],
+    "originalSize": [
+      500,
+      500
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

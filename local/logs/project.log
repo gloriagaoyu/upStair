@@ -1,0 +1,222 @@
+2020-06-05T09:49:24.063Z - normal: Load ~/.CocosCreator/settings.json
+2020-06-05T09:49:24.123Z - normal: Initializing Asset Database
+2020-06-05T09:49:24.125Z - normal: checking language setting...
+2020-06-05T09:49:24.125Z - normal: Language: zh
+2020-06-05T09:49:24.812Z - success: preview server running at http://localhost:7456
+2020-06-05T09:49:24.851Z - success: protocol editor-framework registered
+2020-06-05T09:49:24.851Z - success: protocol app registered
+2020-06-05T09:49:24.851Z - success: protocol theme registered
+2020-06-05T09:49:24.851Z - success: protocol packages registered
+2020-06-05T09:49:24.851Z - success: protocol uuid registerred
+2020-06-05T09:49:24.851Z - success: protocol db registerred
+2020-06-05T09:49:24.851Z - success: protocol thumbnail registerred
+2020-06-05T09:49:24.852Z - success: protocol unpack registerred
+2020-06-05T09:49:24.852Z - success: protocol disable-commonjs registerred
+2020-06-05T09:49:24.941Z - normal: connected!
+2020-06-05T09:49:24.943Z - normal: Check project /Users/fy/Documents/practice/upStar
+2020-06-05T09:49:24.945Z - normal: Initializing project /Users/fy/Documents/practice/upStar
+2020-06-05T09:49:25.285Z - normal: Initializing Cocos2d
+2020-06-05T09:49:26.055Z - normal: Initializing engine extends
+2020-06-05T09:49:26.128Z - success: alipay-adapter loaded
+2020-06-05T09:49:26.139Z - success: asset-db-debugger loaded
+2020-06-05T09:49:26.140Z - success: baidu-adapter loaded
+2020-06-05T09:49:26.141Z - success: color-picker loaded
+2020-06-05T09:49:26.270Z - success: fb-audience-network loaded
+2020-06-05T09:49:26.312Z - success: fb-live-stream loaded
+2020-06-05T09:49:26.315Z - success: google-play-instant loaded
+2020-06-05T09:49:26.343Z - success: huawei-runtime loaded
+2020-06-05T09:49:26.555Z - success: cpk-publish loaded
+2020-06-05T09:49:26.556Z - success: jsb-adapter loaded
+2020-06-05T09:49:26.561Z - success: oppo-runtime loaded
+2020-06-05T09:49:26.572Z - success: package-manager loaded
+2020-06-05T09:49:26.695Z - success: qqplay-adapter loaded
+2020-06-05T09:49:26.696Z - success: runtime-dev-tools loaded
+2020-06-05T09:49:26.709Z - success: sdkbox loaded
+2020-06-05T09:49:26.721Z - success: tester loaded
+2020-06-05T09:49:26.732Z - success: ui-kit-preview-extra loaded
+2020-06-05T09:49:26.748Z - success: ui-kit-preview loaded
+2020-06-05T09:49:26.757Z - success: ui-kit loaded
+2020-06-05T09:49:26.763Z - success: vivo-runtime loaded
+2020-06-05T09:49:26.764Z - success: weapp-adapter loaded
+2020-06-05T09:49:26.765Z - success: xiaomi-adapter loaded
+2020-06-05T09:49:26.768Z - success: alipay-minigame loaded
+2020-06-05T09:49:26.818Z - success: assets loaded
+2020-06-05T09:49:26.828Z - success: builder loaded
+2020-06-05T09:49:27.096Z - success: cocos-services loaded
+2020-06-05T09:49:27.109Z - success: console loaded
+2020-06-05T09:49:27.145Z - success: fb-instant-games loaded
+2020-06-05T09:49:27.157Z - success: game-window loaded
+2020-06-05T09:49:27.159Z - success: google-instant-games loaded
+2020-06-05T09:49:27.172Z - success: hierarchy loaded
+2020-06-05T09:49:27.183Z - success: inspector loaded
+2020-06-05T09:49:27.185Z - success: keystore loaded
+2020-06-05T09:49:27.198Z - success: node-library loaded
+2020-06-05T09:49:27.200Z - success: package-asset loaded
+2020-06-05T09:49:27.201Z - success: preferences loaded
+2020-06-05T09:49:27.235Z - success: project-exporter loaded
+2020-06-05T09:49:27.248Z - success: project-importer loaded
+2020-06-05T09:49:27.257Z - success: project-settings loaded
+2020-06-05T09:49:27.272Z - success: scene loaded
+2020-06-05T09:49:27.273Z - success: simulator-debugger loaded
+2020-06-05T09:49:27.274Z - success: sprite-editor loaded
+2020-06-05T09:49:27.287Z - success: store loaded
+2020-06-05T09:49:27.303Z - success: timeline loaded
+2020-06-05T09:49:27.307Z - success: xiaomi-runtime loaded
+2020-06-05T09:49:28.580Z - info: Cocos Services load base data!
+2020-06-05T09:49:32.190Z - normal: Loading packages
+2020-06-05T09:49:32.195Z - normal: Watching packages
+2020-06-05T09:49:32.292Z - normal: Run Application
+2020-06-05T09:51:16.549Z - normal: Start building with options : {
+  "actualPlatform": "wechatgame",
+  "android-instant": {
+    "REMOTE_SERVER_ROOT": "",
+    "host": "",
+    "pathPattern": "",
+    "recordPath": "",
+    "scheme": "https",
+    "skipRecord": false
+  },
+  "apiLevel": "",
+  "appABIs": [],
+  "appBundle": false,
+  "baidugame": {
+    "REMOTE_SERVER_ROOT": "",
+    "appid": "testappid",
+    "orientation": "portrait",
+    "subContext": ""
+  },
+  "buildPath": "/Users/fy/Documents/practice/upStar/build",
+  "debug": false,
+  "dest": "/Users/fy/Documents/practice/upStar/build/wechatgame",
+  "embedWebDebugger": false,
+  "encryptJs": true,
+  "excludeScenes": [],
+  "excludedModules": [],
+  "fb-instant-games": {},
+  "includeSDKBox": false,
+  "inlineSpriteFrames": true,
+  "inlineSpriteFrames_native": true,
+  "md5Cache": false,
+  "mergeStartScene": false,
+  "optimizeHotUpdate": false,
+  "orientation": {
+    "landscapeLeft": true,
+    "landscapeRight": true,
+    "portrait": false,
+    "upsideDown": false
+  },
+  "packageName": "org.cocos2d.helloworld",
+  "platform": "wechatgame",
+  "previewHeight": "720",
+  "previewWidth": "1280",
+  "qqplay": {
+    "REMOTE_SERVER_ROOT": "",
+    "orientation": "portrait",
+    "zip": false
+  },
+  "scenes": [
+    "967ae333-f5b7-448d-ab55-88ba348366c0",
+    "dd62dd6d-aaf3-4175-a895-53dabbd32319",
+    "3da2e545-d543-44bc-aa5b-879a358fafc2"
+  ],
+  "sourceMaps": false,
+  "startScene": "967ae333-f5b7-448d-ab55-88ba348366c0",
+  "template": "link",
+  "title": "qingwatt",
+  "useDebugKeystore": true,
+  "vsVersion": "auto",
+  "webOrientation": "auto",
+  "wechatgame": {
+    "REMOTE_SERVER_ROOT": "",
+    "appid": "wx25dc143aadf12b3a",
+    "orientation": "portrait",
+    "separate_engine": false,
+    "subContext": "qingwatt"
+  },
+  "xxteaKey": "4945b2c4-db15-46",
+  "zipCompressJs": true,
+  "project": "/Users/fy/Documents/practice/upStar",
+  "projectName": "qingwatt",
+  "debugBuildWorker": false
+}
+2020-06-05T09:51:16.553Z - normal: Building /Users/fy/Documents/practice/upStar
+2020-06-05T09:51:16.553Z - normal: Destination /Users/fy/Documents/practice/upStar/build/wechatgame
+2020-06-05T09:51:16.680Z - normal: Delete /Users/fy/Documents/practice/upStar/build/wechatgame/subpackages/**/*,/Users/fy/Documents/practice/upStar/build/wechatgame/**/*,!/Users/fy/Documents/practice/upStar/build/wechatgame/qingwatt,!/Users/fy/Documents/practice/upStar/build/wechatgame/qingwatt/**/*
+2020-06-05T09:51:18.601Z - normal: Start building assets
+2020-06-05T09:51:18.601Z - normal: Start spawn build-worker
+2020-06-05T09:51:19.217Z - normal: Finish spawn build-worker
+2020-06-05T09:51:19.217Z - normal: Start init build-worker
+2020-06-05T09:51:22.104Z - normal: Finish init build-worker
+2020-06-05T09:51:22.104Z - normal: Start build-assets in worker
+2020-06-05T09:51:22.499Z - normal: Finish build-assets in worker
+2020-06-05T09:51:22.504Z - normal: Finish building assets
+2020-06-05T09:51:22.516Z - normal: Start building plugin scripts
+2020-06-05T09:51:22.557Z - normal: Generating main.js from /Applications/CocosCreator.app/Contents/Resources/static/build-templates/shares/main.js
+2020-06-05T09:51:23.776Z - normal: Built to "/Users/fy/Documents/practice/upStar/build/wechatgame" successfully
+2020-06-05T09:51:27.738Z - normal: Initializing...
+
+2020-06-05T09:51:27.753Z - error: IDE service port disabled. To use CLI Call, open IDE -> Settings -> Security Settings, and set Service Port On.
+For more details see: https://developers.weixin.qq.com/miniprogram/en/dev/devtools/cli.html
+工具的服务端口已关闭。要使用命令行调用工具，请打开工具 -> 设置 -> 安全设置，将服务端口开启。
+详细信息: https://developers.weixin.qq.com/miniprogram/dev/devtools/cli.html
+
+    at Socket.<anonymous> (/Applications/CocosCreator.app/Contents/Resources/app.asar/editor/core/wechat-game.js:1:900)
+    at emitOne (events.js:96:13)
+    at Socket.emit (events.js:191:7)
+    at readableAddChunk (_stream_readable.js:178:18)
+    at Socket.Readable.push (_stream_readable.js:136:10)
+    at Pipe.onread (net.js:560:20)
+2020-06-05T11:01:14.175Z - error: Error: [AssetLibrary] loading JSON or dependencies failed: undefined
+    at CCLoader.<anonymous> (/Applications/CocosCreator.app/Contents/Resources/engine/bin/.cache/dev/cocos2d/core/platform/CCAssetLibrary.js:49:33)
+    at /Applications/CocosCreator.app/Contents/Resources/engine/bin/.cache/dev/cocos2d/core/load-pipeline/CCLoader.js:141:46
+    at /Applications/CocosCreator.app/Contents/Resources/engine/bin/.cache/dev/cocos2d/core/platform/utils.js:49:25
+    at _combinedTickCallback (internal/process/next_tick.js:73:7)
+    at process._tickCallback (internal/process/next_tick.js:104:9)
+2020-06-05T11:01:14.205Z - error: Error: [AssetLibrary] loading JSON or dependencies failed: undefined
+    at CCLoader.<anonymous> (/Applications/CocosCreator.app/Contents/Resources/engine/bin/.cache/dev/cocos2d/core/platform/CCAssetLibrary.js:49:33)
+    at /Applications/CocosCreator.app/Contents/Resources/engine/bin/.cache/dev/cocos2d/core/load-pipeline/CCLoader.js:141:46
+    at /Applications/CocosCreator.app/Contents/Resources/engine/bin/.cache/dev/cocos2d/core/platform/utils.js:49:25
+    at _combinedTickCallback (internal/process/next_tick.js:73:7)
+    at process._tickCallback (internal/process/next_tick.js:104:9)
+2020-06-05T11:01:14.240Z - error: TypeError: Cannot read property '_owner' of undefined
+    at eval (eval at misc.tryCatchFunctor_EDITOR (/Applications/CocosCreator.app/Contents/Resources/engine/bin/.cache/dev/cocos2d/core/utils/misc.js:57:24), <anonymous>:7:6)
+    at CCClass.cc.Class.statics.invokeOnEnable.compScheduler [as _invoke] (/Applications/CocosCreator.app/Contents/Resources/engine/bin/.cache/dev/cocos2d/core/component-scheduler.js:233:29)
+    at CCClass.invoke (/Applications/CocosCreator.app/Contents/Resources/engine/bin/.cache/dev/cocos2d/core/component-scheduler.js:103:22)
+    at CCClass.activateNode (/Applications/CocosCreator.app/Contents/Resources/engine/bin/.cache/dev/cocos2d/core/node-activator.js:186:35)
+    at cc_Node._onHierarchyChanged (/Applications/CocosCreator.app/Contents/Resources/engine/bin/.cache/dev/cocos2d/core/utils/base-node.js:623:48)
+    at cc_Node._onHierarchyChanged (/Applications/CocosCreator.app/Contents/Resources/engine/bin/.cache/dev/cocos2d/core/CCNode.js:726:22)
+    at cc_Node.setParent (/Applications/CocosCreator.app/Contents/Resources/engine/bin/.cache/dev/cocos2d/core/utils/base-node.js:219:26)
+    at module.exports._initInnerNode (/Applications/CocosCreator.app/Contents/Resources/app.asar/editor/builtin/scene/panel/tools/camera/2d.js:1:750)
+    at module.exports.init (/Applications/CocosCreator.app/Contents/Resources/app.asar/editor/builtin/scene/panel/tools/camera/editor-camera.js:1:322)
+2020-06-05T11:01:14.242Z - error: TypeError: Cannot read property '_owner' of undefined
+    at eval (eval at misc.tryCatchFunctor_EDITOR (/Applications/CocosCreator.app/Contents/Resources/engine/bin/.cache/dev/cocos2d/core/utils/misc.js:57:24), <anonymous>:7:6)
+    at CCClass.cc.Class.statics.invokeOnEnable.compScheduler [as _invoke] (/Applications/CocosCreator.app/Contents/Resources/engine/bin/.cache/dev/cocos2d/core/component-scheduler.js:233:29)
+    at CCClass.invoke (/Applications/CocosCreator.app/Contents/Resources/engine/bin/.cache/dev/cocos2d/core/component-scheduler.js:103:22)
+    at CCClass.activateNode (/Applications/CocosCreator.app/Contents/Resources/engine/bin/.cache/dev/cocos2d/core/node-activator.js:186:35)
+    at cc_Node._onHierarchyChanged (/Applications/CocosCreator.app/Contents/Resources/engine/bin/.cache/dev/cocos2d/core/utils/base-node.js:623:48)
+    at cc_Node._onHierarchyChanged (/Applications/CocosCreator.app/Contents/Resources/engine/bin/.cache/dev/cocos2d/core/CCNode.js:726:22)
+    at cc_Node.setParent (/Applications/CocosCreator.app/Contents/Resources/engine/bin/.cache/dev/cocos2d/core/utils/base-node.js:219:26)
+    at module.exports._initInnerNode (/Applications/CocosCreator.app/Contents/Resources/app.asar/editor/builtin/scene/panel/tools/camera/2d.js:1:750)
+    at module.exports.init (/Applications/CocosCreator.app/Contents/Resources/app.asar/editor/builtin/scene/panel/tools/camera/2d.js:1:348)
+2020-06-05T11:01:14.249Z - error: TypeError: Cannot read property '_owner' of undefined
+    at eval (eval at misc.tryCatchFunctor_EDITOR (/Applications/CocosCreator.app/Contents/Resources/engine/bin/.cache/dev/cocos2d/core/utils/misc.js:57:24), <anonymous>:7:6)
+    at CCClass.cc.Class.statics.invokeOnEnable.compScheduler [as _invoke] (/Applications/CocosCreator.app/Contents/Resources/engine/bin/.cache/dev/cocos2d/core/component-scheduler.js:233:29)
+    at CCClass.invoke (/Applications/CocosCreator.app/Contents/Resources/engine/bin/.cache/dev/cocos2d/core/component-scheduler.js:103:22)
+    at CCClass.activateNode (/Applications/CocosCreator.app/Contents/Resources/engine/bin/.cache/dev/cocos2d/core/node-activator.js:186:35)
+    at cc_Node.set [as active] (/Applications/CocosCreator.app/Contents/Resources/engine/bin/.cache/dev/cocos2d/core/utils/base-node.js:157:64)
+    at module.exports.setActive (/Applications/CocosCreator.app/Contents/Resources/app.asar/editor/builtin/scene/panel/tools/camera/2d.js:1:1899)
+    at Object.set is2D [as is2D] (/Applications/CocosCreator.app/Contents/Resources/app.asar/editor/builtin/scene/panel/tools/camera/index.js:1:664)
+    at Object.init (/Applications/CocosCreator.app/Contents/Resources/app.asar/editor/builtin/scene/panel/tools/camera/index.js:1:1821)
+    at cc.engine.init (file:///Applications/CocosCreator.app/Contents/Resources/app.asar/editor/builtin/scene/panel/scene-view.js:1:3456)
+2020-06-05T11:01:14.250Z - error: TypeError: Cannot read property 'effect' of null
+    at Object.set is2D [as is2D] (/Applications/CocosCreator.app/Contents/Resources/app.asar/editor/builtin/scene/panel/tools/camera/index.js:1:767)
+    at Object.init (/Applications/CocosCreator.app/Contents/Resources/app.asar/editor/builtin/scene/panel/tools/camera/index.js:1:1821)
+    at cc.engine.init (file:///Applications/CocosCreator.app/Contents/Resources/app.asar/editor/builtin/scene/panel/scene-view.js:1:3456)
+    at /Applications/CocosCreator.app/Contents/Resources/app.asar/editor/page/scene-utils/editor-engine/index.js:1:1418
+    at Object.onStart (/Applications/CocosCreator.app/Contents/Resources/app.asar/editor/page/scene-utils/editor-engine/index.js:1:2219)
+    at /Applications/CocosCreator.app/Contents/Resources/engine/bin/.cache/dev/cocos2d/core/CCGame.js:132:25
+    at s.eachSeries.t (/Applications/CocosCreator.app/Contents/Resources/app.asar/editor/page/scene-utils/utils/effect.js:1:534)
+    at /Applications/CocosCreator.app/Contents/Resources/app.asar/node_modules/async/lib/async.js:52:16
+    at /Applications/CocosCreator.app/Contents/Resources/app.asar/node_modules/async/lib/async.js:264:21
+    at /Applications/CocosCreator.app/Contents/Resources/app.asar/node_modules/async/lib/async.js:44:16
+2020-06-08T06:14:47.622Z - info: shutdown preview server
